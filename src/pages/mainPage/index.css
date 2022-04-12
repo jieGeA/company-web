@@ -1,0 +1,14 @@
+.index_title{
+    margin-left: 200px;
+}
+
+.index_info{
+    margin-right: 200px;
+    text-indent: 2em;
+    line-height: 30px;
+}
+
+.index_img img{
+    height: 500px;
+    width: 100%;
+}

@@ -1,0 +1,19 @@
+.swiper-slide img{
+    height: 600px;
+    width: 100%;
+}
+
+.swiper-pagination-bullet {
+    width: 40px;
+    border-radius: 10%;
+    opacity: 1;
+    background: #fff;
+}
+
+.swiper-pagination-bullet-active {
+    background: #007aff!important;
+}
+
+.swiper-pagination{
+    margin-bottom: 40px!important;
+}

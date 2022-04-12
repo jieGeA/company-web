@@ -1,0 +1,37 @@
+.footer_title{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 40px 0 20px 0;
+}
+.footer_title span {
+    display: inline-block;
+    width: 6px;
+    background: #007aff;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+    transform: rotate(10deg);
+}
+
+.footer_main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_imgWrapper img{
+    width: 200px;
+}
+
+.footer_imgWrapper div{
+    font-size: 30px;
+    margin-left: 9px;
+}
+
+.footer_wrapper{
+    margin: 10px 200px;
+}
+
+.footer_info div{
+    margin: 24px 0;
+    font-size: 18px;
+}

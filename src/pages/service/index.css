@@ -1,0 +1,48 @@
+.service_wrapper{
+    margin: 0 200px;
+}
+
+.service_info{
+    border: 4px dotted #007aff;
+    border-radius: 2px;
+    margin-top: 50px;
+    padding: 20px;
+    position: relative;
+}
+
+.service_int{
+    font-size: 16px;
+    text-indent: 2em;
+    line-height: 35px;
+    font-weight: bold;
+    opacity: .6;
+}
+
+.service_join{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #007aff;
+}
+
+.service_title span {
+    display: inline-block;
+    width: 2px;
+    background: #007aff;
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 5px;
+    transform: rotate(10deg);
+}
+
+.service_up{
+    position: absolute;
+    top: -17px;
+    left: 135px;
+}
+
+.service_down{
+   position: absolute; 
+   bottom: -16px;
+   right: 95px;
+}
