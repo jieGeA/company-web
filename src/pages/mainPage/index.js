@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import Footer from '../../component/Footer/Footer'
 import './index.css'
-import img2 from '../../static/lunbo/2.jpg'
-import img3 from '../../static/lunbo/3.jpg'
+import img22 from '../../static/lunbo/22.jpg'
+import img33 from '../../static/lunbo/33.jpg'
 
 export default class index extends Component {
   render() {
@@ -17,13 +17,13 @@ export default class index extends Component {
         <div>
           <div className='footer_title index_title'><span></span>稼跃产品</div>
           <div className='index_img'>
-            <img src={img2} alt="" />
+            <img src={img22} alt="" />
           </div>
         </div>
         <div>
           <div className='footer_title index_title'><span></span>我们的服务</div>
           <div  className='index_img'>
-            <img src={img3} alt="" />
+            <img src={img33} alt="" />
           </div>
         </div>
         <Footer />
